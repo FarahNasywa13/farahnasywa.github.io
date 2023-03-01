@@ -1,0 +1,25 @@
+body{
+    background-color: rgba(74, 119, 201, 0.9);
+}
+header{
+    background-color: rgb(50, 113, 124);
+    padding: 20px;
+}
+h1{
+    color: rgb(16, 2, 2);
+}
+
+#section{
+    border: 3px;
+}
+
+h2{
+    color: rgb(12, 13, 14);
+}
+a{
+    color: black;
+    margin-right: 5px;
+}
+.active{
+    color: rgb(52, 180, 159);
+}
